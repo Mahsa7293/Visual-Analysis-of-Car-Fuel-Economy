@@ -1,5 +1,4 @@
 # Visual-Analysis-of-Car-Fuel-Economy
-This dataset contains test data used to evaluate fuel economy. The information is derived from vehicle testing conducted at EPA's National Vehicle and Fuel Emissions Laboratory in Ann Arbor, Michigan, as well as from data submitted by vehicle manufacturers to the EPA. 
 ## Dataset Description
 This dataset contains test data used to evaluate fuel economy. The information is derived from vehicle testing conducted at EPA's National Vehicle and Fuel Emissions Laboratory in Ann Arbor, Michigan, as well as from data submitted by vehicle manufacturers to the EPA. The dataset comprises 832 rows and 13 features, detailing various properties of car models from 2018. Key features include fuel type, the number of engine cylinders, wheel drive configuration, vehicle class, and more.
 
@@ -30,4 +29,5 @@ Violin plots and box plots to compare engine cylinders and wheel drive configura
 Specific comparisons such as:
 Air pollution score vs. city MPG across different vehicle classes and fuel types.
 Greenhouse gas score vs. engine displacement across vehicle classes and fuel types.
+
 This analysis provides valuable insights into the factors influencing fuel economy and environmental performance, guiding future decisions in vehicle design and production.
